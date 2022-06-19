@@ -1,0 +1,5 @@
+#!/bin/bash
+lscpu
+lsmem
+lsblk
+cat /etc/*release
